@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@ngrx/store-devtools": "^15.1.0"
+  },
+  "dependencies": {
+    "@ngrx/router-store": "^15.1.0",
+    "@ngrx/store": "^15.1.0"
+  }
+}
